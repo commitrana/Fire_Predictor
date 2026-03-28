@@ -1,0 +1,11 @@
+data/predicted_fire_risk.csv
+data/terrain_features.csv
+data/thematic.tif
+data/weather_features.csv
+data/dem.tif
+data/file1.nc
+data/file2.nc
+data/final_dataset.csv
+data/fire_data.csv
+data/fire_filtered.csv
+
